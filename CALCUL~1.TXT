@@ -1,0 +1,7 @@
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\bin\Debug\CalculoSueldoTutorialPagina.exe.config
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\bin\Debug\CalculoSueldoTutorialPagina.exe
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\bin\Debug\CalculoSueldoTutorialPagina.pdb
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\obj\Debug\CalculoSueldoTutorialPagina.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\obj\Debug\CalculoSueldoTutorialPagina.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\obj\Debug\CalculoSueldoTutorialPagina.exe
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\CalculoSueldoTutorialPagina\CalculoSueldoTutorialPagina\obj\Debug\CalculoSueldoTutorialPagina.pdb
